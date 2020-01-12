@@ -1,1 +1,1 @@
-# comp550
+# comp550 Algorithms and Analysis
